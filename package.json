@@ -1,7 +1,7 @@
 {
   "name": "ncu-test-tag",
   "description": "A package that publishes a variety of prereleases to different tags.",
-  "version": "1.0.0-0",
+  "version": "1.0.0-1",
   "author": {
     "name": "Raine Revere",
     "url": "https://github.com/raineorshine"
